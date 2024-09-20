@@ -12,7 +12,7 @@ Este é um jogo divertido onde você tenta adivinhar um número secreto escolhid
 
 **Recursos utilizados:**
 
-* Linguagem de programação: JavaScript
+* Linguagem de programação: JavaScript, HTML e CSS
 * Biblioteca de voz: ResponsiveVoice.js
 
 **Arquivo principal:**
